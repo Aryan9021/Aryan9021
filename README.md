@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Python and Java**
 
-- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🧑‍🤝‍🧑 I'm looking to collaborate on **Open Source Projects**
 
 - 🤝 I'm looking for help with **Backend and API **
 
