@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a passionate developer from around the world<br><br>- 🔭 I'm currently learning Python and Java<br>- 💡 I'm looking to collaborate on Open Source Projects<br>- 🤝 I'm looking for help with Backend and API<br>- 💬 Ask me about Python, Java, C, MySQL and Web Development<br>- ⚡ Fun fact I am good at Japanese language and chess. I like to watch anime.</p>
+<p align="left">I'm a passionate developer from around the world<br><br>- 🔭 I'm currently learning Python and Java<br>- 💡 I'm looking to collaborate on Open Source Projects<br>- 🤝 I'm looking for help with Backend and API<br>- 💬 Ask me about Python, Java, C, MySQL and Web Development<br>- ⚡ Fun fact - I am learning a Japanese language and i am good at chess. I like to watch anime.</p>
 
 ###
 
