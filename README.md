@@ -14,7 +14,7 @@ I'm a 2nd Diploma student in Information Technology, committed to developing str
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="assets/icons/c.svg" alt="C" title="C" width="36" height="36" />
+    <img src="assets/icons/C.svg" alt="C" title="C" width="36" height="36" />
   </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="assets/icons/cpp.svg" alt="C++" title="C++" width="36" height="36" />
