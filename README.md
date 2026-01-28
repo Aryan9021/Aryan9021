@@ -13,12 +13,11 @@ I'm a 2nd Diploma student in Information Technology, committed to developing str
 * 💬  Ask me about I'm learning Japanese language 🎌 and I'm passionate about chess ♟️ and anime! 📺
 
 <p align="left">
- 
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="assets/icons/cpp.svg" alt="C++" title="C++" width="36" height="36" />
-  </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="assets/icons/c.svg" alt="C" title="C" width="36" height="36" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="assets/icons/cpp.svg" alt="C++" title="C++" width="36" height="36" />
   </a>
    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="assets/icons/python.svg" alt="Python" title="Python" width="36" height="36" />
