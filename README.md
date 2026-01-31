@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passionate Future Full Stack Developer
 ----------------------------------------
 
-I'm a 2nd Diploma student in Information Technology, committed to developing strong technical fundamentals and building a long-term career in software dev. I'm passionate about learning new technologies and collaborating with creative minds. Currently focusing on Python, Java, and Web Development.
+I'm a 2nd Diploma student in Information Technology, committed to developing strong technical fundamentals and building a long-term career in software dev. I'm passionate about learning new technologies and collaborating with creative minds.
 
 * 🌍  I'm based in Rajgurunagar, Pune, Maharashtra, India
 * ✉️  You can contact me at [aryanbarbate3@gmail.com](mailto:aryanbarbate3@gmail.com)
