@@ -64,13 +64,19 @@ I'm a 2nd Diploma student in Information Technology, committed to developing str
 ### GitHub Stats:
 
 <div algin="center">
+
   
+<p align="center">
+    
 ![](https://github-readme-stats.vercel.app/api?username=Aryan-barbate&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aryan-barbate&theme=midnight-purple&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-barbate&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-  
-![snake gif](https://github.com/Aryan-barbate/Aryan-barbate/blob/output/github-snake-dark.svg)
+
+<img src="assets/space-shooter.gif" />
+</p>
+
+<!-- ![snake gif](https://github.com/Aryan-barbate/Aryan-barbate/blob/output/github-snake-dark.svg) -->
 
 </div>
