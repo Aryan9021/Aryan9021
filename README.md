@@ -54,9 +54,11 @@
   <h3>📊 GitHub Analytics</h3>
   <br>
   
-![](https://github-readme-stats.vercel.app/api?username=Aryan-barbate&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan-barbate&theme=midnight-purple&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-barbate&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Aryan-barbate&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://nirzak-streak-stats.vercel.app/?user=Aryan-barbate&theme=midnight-purple&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-barbate&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-barbate&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
